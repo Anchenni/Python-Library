@@ -3,7 +3,7 @@
 
 #import library
 >>> import pygetwindow as gw
-
+gg
 ################CODE###########################
 
 >>> gw.getAllTitles()
